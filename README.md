@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Michael Cooper
 
-**Full Stack Web Developer**  
+**Full Stack Web Developer & Systems Administrator**  
 🌍 Miami, Florida  
 📧 [mcooper7649@gmail.com](mailto:mcooper7649@gmail.com)  
 🌐 [www.mycodedojo.com](https://www.mycodedojo.com)  
@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-I'm a results-driven Full Stack Web Developer with a knack for building and maintaining web applications. From crafting user-friendly interfaces to managing complex backend systems, I bring a full-stack approach to everything I do. I'm passionate about learning and growing in the ever-evolving world of technology. 
+I'm a results-driven Full Stack Web Developer and Systems Administrator with a knack for building and maintaining both web applications and IT infrastructures. From crafting user-friendly interfaces to deploying and managing systems in Intune, I bring a full-stack approach to everything I do. I'm passionate about learning and growing in the ever-evolving world of technology. 
 
-When I'm not coding, you'll probably find me exploring the latest web development trends, working on my next big project, or leveling up my skills through new challenges.
+When I'm not coding or configuring systems, you'll probably find me exploring the latest tech trends, working on my next big project, or leveling up my skills through new challenges.
 
 ---
 
@@ -40,6 +40,13 @@ When I'm not coding, you'll probably find me exploring the latest web developmen
 ---
 
 ## 💼 Professional Experience
+
+### Systems Administrator @ [Inter Miami CF](https://www.intermiamicf.com)  
+_October 2024 - Present, Fort Lauderdale, FL_
+
+- Focused on Intune management and deployment to streamline device provisioning and enforce security policies.
+- Managed device compliance, application deployment, and policy enforcement within a hybrid cloud environment.
+- Enhanced user experience by optimizing Intune configurations and automating onboarding processes.
 
 ### Frontend Developer @ [CoinRoutes](https://coinroutes.com)  
 _February 2023 - July 2024, Miami, FL_
