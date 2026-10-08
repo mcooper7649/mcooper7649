@@ -1,18 +1,25 @@
 # 👋 Hey there! I'm Michael Cooper
 
-**Full Stack Web Developer & Systems Administrator**  
-🌍 Miami, Florida  
-📧 [mcooper7649@gmail.com](mailto:mcooper7649@gmail.com)  
-🌐 [www.mycodedojo.com](https://www.mycodedojo.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mcooper305) • [GitHub](https://github.com/mcooper7649)
+**Full Stack Engineer (React · TypeScript · Node) with 10+ years in IT & Systems Administration**  
+🌍 Miami, FL · Open to remote or hybrid roles  
+📧 [michael.cooper@mycodedojo.com](mailto:michael.cooper@mycodedojo.com)  
+🌐 [Portfolio](https://www.mycodedojo.com) • [Blog](https://blog.mycodedojo.com) • [LinkedIn](https://www.linkedin.com/in/mcooper305)
+
+> 💼 **Currently open to:** Full Stack / Frontend Engineer, Web3 Engineer, and DevOps / Systems Engineer roles.
 
 ---
 
 ## 🚀 About Me
 
-I'm a results-driven Full Stack Web Developer and Systems Administrator with a knack for building and maintaining both web applications and IT infrastructures. From crafting user-friendly interfaces to deploying and managing systems in Intune, I bring a full-stack approach to everything I do. I'm passionate about learning and growing in the ever-evolving world of technology. 
+I'm a full stack engineer who also knows how to run the servers the code ships to. I build production apps in **React, Next.js, TypeScript and Node.js**, and I bring years of hands-on systems and network administration from Wix and Inter Miami CF.
 
-Lately I've been building at the intersection of **web3, AI and mobile**: on-chain NFT tooling, a social trading app with AI trade commentary, and a homelab that runs local LLMs and self-hosts everything I ship.
+**What I bring to a team:**
+- 🧑‍💻 **Shipped frontend in production.** At CoinRoutes I maintained an algorithmic crypto trading platform and modernized the public website with React, Gatsby and Contentful, lifting engagement by 15%.
+- ⛓️ **Web3 from contracts to UI.** I write and test Solidity with Foundry and wire it up with wagmi/viem. [Shuin](https://shuin.mycodedojo.com), my on-chain NFT launcher, is live on Base mainnet.
+- 🤖 **AI built into real products.** [FloorFeed](https://floorfeed.mycodedojo.com) uses the Claude API and local Ollama models to explain NFT trades, and my blog publishes through an automated AI workflow.
+- 🛠️ **Ops and infrastructure.** I manage Intune, Active Directory and hybrid cloud at work, and at home I run Proxmox, Docker, Caddy and Cloudflare to self-host my projects end to end.
+
+I enjoy owning a feature from database to deployment, writing clear docs, and working on teams that ship often.
 
 ---
 
